@@ -2,17 +2,16 @@
     margin-top: 10px;
     margin-bottom: 20px;
     box-shadow: 3px 3px 3px 3px gray;
-    width: 130px;;
+    width: 140px;;
     padding: 20px;
     font-weight: 400;
     padding-bottom: 0px;
     height: 80px;
-    border-radius: 10%;
+    border-radius: 50%;
     text-decoration:line-through;
     font-style: italic;
     font-size: x-large;
     border: red 2px solid;
-    margin-left: 0px;
     margin-right: 20px;
 }
 #user-input{
@@ -35,7 +34,6 @@ input{
 }
 .inline{
     display:inline-block;
-    padding-bottom: 10px;
 }
 #reload{
     margin-left: 10px;
