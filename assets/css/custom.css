@@ -1,0 +1,45 @@
+#image{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 3px 3px gray;
+    width: 130px;;
+    padding: 20px;
+    font-weight: 400;
+    padding-bottom: 0px;
+    height: 80px;
+    border-radius: 10%;
+    text-decoration:line-through;
+    font-style: italic;
+    font-size: x-large;
+    border: red 2px solid;
+    margin-left: 0px;
+    margin-right: 20px;
+}
+#user-input{
+    /*box-shadow: 5px 5px 5px 5px gray;
+    width:auto;
+    margin-right: 10px;
+    padding: 10px;
+    padding-bottom: 0px;
+    height: 20%;
+    border: red 0px solid;
+    align-content: flex-end;
+    */
+}
+input{
+    border:1px black solid;
+    border-radius: 10%;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.inline{
+    display:inline-block;
+    padding-bottom: 10px;
+}
+#reload{
+    margin-left: 10px;
+    padding: 20px;
+    float: inline-end;
+    position: static;
+}
